@@ -37,7 +37,9 @@ TensorFlow, Keras, scikit-learn, NumPy, SciPy, Pandas, OpenCV
 Docker, FastAPI, Git, React
 
 Major Talent: OVERTHIKING
+
 Strategy : YOU'RE NOT DUMB, DO IT YOURSELF
+
 Results: SOMEHOW WORKING, HOW? , I GUESS WE'LL NEVER KNOW!
 
 ## Contact
